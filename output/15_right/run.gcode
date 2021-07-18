@@ -1,0 +1,4015 @@
+;fileName:right.stl #1
+;machineType:default
+;estimatedPrintTime:4308.09
+;volume:0.129426
+;resin:normal
+;weight:0.142368
+;price:0.00388277
+;layerHeight:0.015
+;resolutionX:768
+;resolutionY:480
+;machineX:43.2
+;machineY:27
+;machineZ:180
+;projectType:DLP_normal
+;normalExposureTime:6
+;bottomLayExposureTime:50
+;bottomLayerExposureTime:50
+;normalDropSpeed:150
+;normalLayerLiftHeight:5
+;zSlowUpDistance:0
+;normalLayerLiftSpeed:65
+;bottomLayCount:0
+;bottomLayerCount:0
+;mirror:0
+;totalLayer:331
+;bottomLayerLiftHeight:5
+;bottomLayerLiftSpeed:65
+;bottomLightOffTime:0
+;lightOffTime:0
+;START_GCODE_BEGIN
+G21;
+G90;
+M106 S0;
+G28 Z0;
+
+;START_GCODE_END
+
+;LAYER_START:0
+;currPos:0.015
+M6054 "1.png";show Image
+G0 Z5.015 F65;
+G0 Z0.015 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:1
+;currPos:0.03
+M6054 "2.png";show Image
+G0 Z5.03 F65;
+G0 Z0.03 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:2
+;currPos:0.045
+M6054 "3.png";show Image
+G0 Z5.045 F65;
+G0 Z0.045 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:3
+;currPos:0.06
+M6054 "4.png";show Image
+G0 Z5.06 F65;
+G0 Z0.06 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:4
+;currPos:0.075
+M6054 "5.png";show Image
+G0 Z5.075 F65;
+G0 Z0.075 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:5
+;currPos:0.09
+M6054 "6.png";show Image
+G0 Z5.09 F65;
+G0 Z0.09 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:6
+;currPos:0.105
+M6054 "7.png";show Image
+G0 Z5.105 F65;
+G0 Z0.105 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:7
+;currPos:0.12
+M6054 "8.png";show Image
+G0 Z5.12 F65;
+G0 Z0.12 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:8
+;currPos:0.135
+M6054 "9.png";show Image
+G0 Z5.135 F65;
+G0 Z0.135 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:9
+;currPos:0.15
+M6054 "10.png";show Image
+G0 Z5.15 F65;
+G0 Z0.15 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:10
+;currPos:0.165
+M6054 "11.png";show Image
+G0 Z5.165 F65;
+G0 Z0.165 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:11
+;currPos:0.18
+M6054 "12.png";show Image
+G0 Z5.18 F65;
+G0 Z0.18 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:12
+;currPos:0.195
+M6054 "13.png";show Image
+G0 Z5.195 F65;
+G0 Z0.195 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:13
+;currPos:0.21
+M6054 "14.png";show Image
+G0 Z5.21 F65;
+G0 Z0.21 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:14
+;currPos:0.225
+M6054 "15.png";show Image
+G0 Z5.225 F65;
+G0 Z0.225 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:15
+;currPos:0.24
+M6054 "16.png";show Image
+G0 Z5.24 F65;
+G0 Z0.24 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:16
+;currPos:0.255
+M6054 "17.png";show Image
+G0 Z5.255 F65;
+G0 Z0.255 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:17
+;currPos:0.27
+M6054 "18.png";show Image
+G0 Z5.27 F65;
+G0 Z0.27 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:18
+;currPos:0.285
+M6054 "19.png";show Image
+G0 Z5.285 F65;
+G0 Z0.285 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:19
+;currPos:0.3
+M6054 "20.png";show Image
+G0 Z5.3 F65;
+G0 Z0.3 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:20
+;currPos:0.315
+M6054 "21.png";show Image
+G0 Z5.315 F65;
+G0 Z0.315 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:21
+;currPos:0.33
+M6054 "22.png";show Image
+G0 Z5.33 F65;
+G0 Z0.33 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:22
+;currPos:0.345
+M6054 "23.png";show Image
+G0 Z5.345 F65;
+G0 Z0.345 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:23
+;currPos:0.36
+M6054 "24.png";show Image
+G0 Z5.36 F65;
+G0 Z0.36 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:24
+;currPos:0.375
+M6054 "25.png";show Image
+G0 Z5.375 F65;
+G0 Z0.375 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:25
+;currPos:0.39
+M6054 "26.png";show Image
+G0 Z5.39 F65;
+G0 Z0.39 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:26
+;currPos:0.405
+M6054 "27.png";show Image
+G0 Z5.405 F65;
+G0 Z0.405 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:27
+;currPos:0.42
+M6054 "28.png";show Image
+G0 Z5.42 F65;
+G0 Z0.42 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:28
+;currPos:0.435
+M6054 "29.png";show Image
+G0 Z5.435 F65;
+G0 Z0.435 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:29
+;currPos:0.45
+M6054 "30.png";show Image
+G0 Z5.45 F65;
+G0 Z0.45 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:30
+;currPos:0.465
+M6054 "31.png";show Image
+G0 Z5.465 F65;
+G0 Z0.465 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:31
+;currPos:0.48
+M6054 "32.png";show Image
+G0 Z5.48 F65;
+G0 Z0.48 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:32
+;currPos:0.495
+M6054 "33.png";show Image
+G0 Z5.495 F65;
+G0 Z0.495 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:33
+;currPos:0.51
+M6054 "34.png";show Image
+G0 Z5.51 F65;
+G0 Z0.51 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:34
+;currPos:0.525
+M6054 "35.png";show Image
+G0 Z5.525 F65;
+G0 Z0.525 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:35
+;currPos:0.54
+M6054 "36.png";show Image
+G0 Z5.54 F65;
+G0 Z0.54 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:36
+;currPos:0.555
+M6054 "37.png";show Image
+G0 Z5.555 F65;
+G0 Z0.555 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:37
+;currPos:0.57
+M6054 "38.png";show Image
+G0 Z5.57 F65;
+G0 Z0.57 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:38
+;currPos:0.585
+M6054 "39.png";show Image
+G0 Z5.585 F65;
+G0 Z0.585 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:39
+;currPos:0.6
+M6054 "40.png";show Image
+G0 Z5.6 F65;
+G0 Z0.6 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:40
+;currPos:0.615
+M6054 "41.png";show Image
+G0 Z5.615 F65;
+G0 Z0.615 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:41
+;currPos:0.63
+M6054 "42.png";show Image
+G0 Z5.63 F65;
+G0 Z0.63 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:42
+;currPos:0.645
+M6054 "43.png";show Image
+G0 Z5.645 F65;
+G0 Z0.645 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:43
+;currPos:0.66
+M6054 "44.png";show Image
+G0 Z5.66 F65;
+G0 Z0.66 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:44
+;currPos:0.675
+M6054 "45.png";show Image
+G0 Z5.675 F65;
+G0 Z0.675 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:45
+;currPos:0.69
+M6054 "46.png";show Image
+G0 Z5.69 F65;
+G0 Z0.69 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:46
+;currPos:0.705
+M6054 "47.png";show Image
+G0 Z5.705 F65;
+G0 Z0.705 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:47
+;currPos:0.72
+M6054 "48.png";show Image
+G0 Z5.72 F65;
+G0 Z0.72 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:48
+;currPos:0.735
+M6054 "49.png";show Image
+G0 Z5.735 F65;
+G0 Z0.735 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:49
+;currPos:0.75
+M6054 "50.png";show Image
+G0 Z5.75 F65;
+G0 Z0.75 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:50
+;currPos:0.765
+M6054 "51.png";show Image
+G0 Z5.765 F65;
+G0 Z0.765 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:51
+;currPos:0.78
+M6054 "52.png";show Image
+G0 Z5.78 F65;
+G0 Z0.78 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:52
+;currPos:0.795
+M6054 "53.png";show Image
+G0 Z5.795 F65;
+G0 Z0.795 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:53
+;currPos:0.81
+M6054 "54.png";show Image
+G0 Z5.81 F65;
+G0 Z0.81 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:54
+;currPos:0.825
+M6054 "55.png";show Image
+G0 Z5.825 F65;
+G0 Z0.825 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:55
+;currPos:0.84
+M6054 "56.png";show Image
+G0 Z5.84 F65;
+G0 Z0.84 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:56
+;currPos:0.855
+M6054 "57.png";show Image
+G0 Z5.855 F65;
+G0 Z0.855 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:57
+;currPos:0.87
+M6054 "58.png";show Image
+G0 Z5.87 F65;
+G0 Z0.87 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:58
+;currPos:0.885
+M6054 "59.png";show Image
+G0 Z5.885 F65;
+G0 Z0.885 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:59
+;currPos:0.9
+M6054 "60.png";show Image
+G0 Z5.9 F65;
+G0 Z0.9 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:60
+;currPos:0.915
+M6054 "61.png";show Image
+G0 Z5.915 F65;
+G0 Z0.915 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:61
+;currPos:0.93
+M6054 "62.png";show Image
+G0 Z5.93 F65;
+G0 Z0.93 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:62
+;currPos:0.945
+M6054 "63.png";show Image
+G0 Z5.945 F65;
+G0 Z0.945 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:63
+;currPos:0.96
+M6054 "64.png";show Image
+G0 Z5.96 F65;
+G0 Z0.96 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:64
+;currPos:0.975
+M6054 "65.png";show Image
+G0 Z5.975 F65;
+G0 Z0.975 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:65
+;currPos:0.99
+M6054 "66.png";show Image
+G0 Z5.99 F65;
+G0 Z0.99 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:66
+;currPos:1.005
+M6054 "67.png";show Image
+G0 Z6.005 F65;
+G0 Z1.005 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:67
+;currPos:1.02
+M6054 "68.png";show Image
+G0 Z6.02 F65;
+G0 Z1.02 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:68
+;currPos:1.035
+M6054 "69.png";show Image
+G0 Z6.035 F65;
+G0 Z1.035 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:69
+;currPos:1.05
+M6054 "70.png";show Image
+G0 Z6.05 F65;
+G0 Z1.05 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:70
+;currPos:1.065
+M6054 "71.png";show Image
+G0 Z6.065 F65;
+G0 Z1.065 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:71
+;currPos:1.08
+M6054 "72.png";show Image
+G0 Z6.08 F65;
+G0 Z1.08 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:72
+;currPos:1.095
+M6054 "73.png";show Image
+G0 Z6.095 F65;
+G0 Z1.095 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:73
+;currPos:1.11
+M6054 "74.png";show Image
+G0 Z6.11 F65;
+G0 Z1.11 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:74
+;currPos:1.125
+M6054 "75.png";show Image
+G0 Z6.125 F65;
+G0 Z1.125 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:75
+;currPos:1.14
+M6054 "76.png";show Image
+G0 Z6.14 F65;
+G0 Z1.14 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:76
+;currPos:1.155
+M6054 "77.png";show Image
+G0 Z6.155 F65;
+G0 Z1.155 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:77
+;currPos:1.17
+M6054 "78.png";show Image
+G0 Z6.17 F65;
+G0 Z1.17 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:78
+;currPos:1.185
+M6054 "79.png";show Image
+G0 Z6.185 F65;
+G0 Z1.185 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:79
+;currPos:1.2
+M6054 "80.png";show Image
+G0 Z6.2 F65;
+G0 Z1.2 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:80
+;currPos:1.215
+M6054 "81.png";show Image
+G0 Z6.215 F65;
+G0 Z1.215 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:81
+;currPos:1.23
+M6054 "82.png";show Image
+G0 Z6.23 F65;
+G0 Z1.23 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:82
+;currPos:1.245
+M6054 "83.png";show Image
+G0 Z6.245 F65;
+G0 Z1.245 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:83
+;currPos:1.26
+M6054 "84.png";show Image
+G0 Z6.26 F65;
+G0 Z1.26 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:84
+;currPos:1.275
+M6054 "85.png";show Image
+G0 Z6.275 F65;
+G0 Z1.275 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:85
+;currPos:1.29
+M6054 "86.png";show Image
+G0 Z6.29 F65;
+G0 Z1.29 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:86
+;currPos:1.305
+M6054 "87.png";show Image
+G0 Z6.305 F65;
+G0 Z1.305 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:87
+;currPos:1.32
+M6054 "88.png";show Image
+G0 Z6.32 F65;
+G0 Z1.32 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:88
+;currPos:1.335
+M6054 "89.png";show Image
+G0 Z6.335 F65;
+G0 Z1.335 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:89
+;currPos:1.35
+M6054 "90.png";show Image
+G0 Z6.35 F65;
+G0 Z1.35 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:90
+;currPos:1.365
+M6054 "91.png";show Image
+G0 Z6.365 F65;
+G0 Z1.365 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:91
+;currPos:1.38
+M6054 "92.png";show Image
+G0 Z6.38 F65;
+G0 Z1.38 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:92
+;currPos:1.395
+M6054 "93.png";show Image
+G0 Z6.395 F65;
+G0 Z1.395 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:93
+;currPos:1.41
+M6054 "94.png";show Image
+G0 Z6.41 F65;
+G0 Z1.41 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:94
+;currPos:1.425
+M6054 "95.png";show Image
+G0 Z6.425 F65;
+G0 Z1.425 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:95
+;currPos:1.44
+M6054 "96.png";show Image
+G0 Z6.44 F65;
+G0 Z1.44 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:96
+;currPos:1.455
+M6054 "97.png";show Image
+G0 Z6.455 F65;
+G0 Z1.455 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:97
+;currPos:1.47
+M6054 "98.png";show Image
+G0 Z6.47 F65;
+G0 Z1.47 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:98
+;currPos:1.485
+M6054 "99.png";show Image
+G0 Z6.485 F65;
+G0 Z1.485 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:99
+;currPos:1.5
+M6054 "100.png";show Image
+G0 Z6.5 F65;
+G0 Z1.5 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:100
+;currPos:1.515
+M6054 "101.png";show Image
+G0 Z6.515 F65;
+G0 Z1.515 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:101
+;currPos:1.53
+M6054 "102.png";show Image
+G0 Z6.53 F65;
+G0 Z1.53 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:102
+;currPos:1.545
+M6054 "103.png";show Image
+G0 Z6.545 F65;
+G0 Z1.545 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:103
+;currPos:1.56
+M6054 "104.png";show Image
+G0 Z6.56 F65;
+G0 Z1.56 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:104
+;currPos:1.575
+M6054 "105.png";show Image
+G0 Z6.575 F65;
+G0 Z1.575 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:105
+;currPos:1.59
+M6054 "106.png";show Image
+G0 Z6.59 F65;
+G0 Z1.59 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:106
+;currPos:1.605
+M6054 "107.png";show Image
+G0 Z6.605 F65;
+G0 Z1.605 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:107
+;currPos:1.62
+M6054 "108.png";show Image
+G0 Z6.62 F65;
+G0 Z1.62 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:108
+;currPos:1.635
+M6054 "109.png";show Image
+G0 Z6.635 F65;
+G0 Z1.635 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:109
+;currPos:1.65
+M6054 "110.png";show Image
+G0 Z6.65 F65;
+G0 Z1.65 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:110
+;currPos:1.665
+M6054 "111.png";show Image
+G0 Z6.665 F65;
+G0 Z1.665 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:111
+;currPos:1.68
+M6054 "112.png";show Image
+G0 Z6.68 F65;
+G0 Z1.68 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:112
+;currPos:1.695
+M6054 "113.png";show Image
+G0 Z6.695 F65;
+G0 Z1.695 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:113
+;currPos:1.71
+M6054 "114.png";show Image
+G0 Z6.71 F65;
+G0 Z1.71 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:114
+;currPos:1.725
+M6054 "115.png";show Image
+G0 Z6.725 F65;
+G0 Z1.725 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:115
+;currPos:1.74
+M6054 "116.png";show Image
+G0 Z6.74 F65;
+G0 Z1.74 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:116
+;currPos:1.755
+M6054 "117.png";show Image
+G0 Z6.755 F65;
+G0 Z1.755 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:117
+;currPos:1.77
+M6054 "118.png";show Image
+G0 Z6.77 F65;
+G0 Z1.77 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:118
+;currPos:1.785
+M6054 "119.png";show Image
+G0 Z6.785 F65;
+G0 Z1.785 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:119
+;currPos:1.8
+M6054 "120.png";show Image
+G0 Z6.8 F65;
+G0 Z1.8 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:120
+;currPos:1.815
+M6054 "121.png";show Image
+G0 Z6.815 F65;
+G0 Z1.815 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:121
+;currPos:1.83
+M6054 "122.png";show Image
+G0 Z6.83 F65;
+G0 Z1.83 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:122
+;currPos:1.845
+M6054 "123.png";show Image
+G0 Z6.845 F65;
+G0 Z1.845 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:123
+;currPos:1.86
+M6054 "124.png";show Image
+G0 Z6.86 F65;
+G0 Z1.86 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:124
+;currPos:1.875
+M6054 "125.png";show Image
+G0 Z6.875 F65;
+G0 Z1.875 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:125
+;currPos:1.89
+M6054 "126.png";show Image
+G0 Z6.89 F65;
+G0 Z1.89 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:126
+;currPos:1.905
+M6054 "127.png";show Image
+G0 Z6.905 F65;
+G0 Z1.905 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:127
+;currPos:1.92
+M6054 "128.png";show Image
+G0 Z6.92 F65;
+G0 Z1.92 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:128
+;currPos:1.935
+M6054 "129.png";show Image
+G0 Z6.935 F65;
+G0 Z1.935 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:129
+;currPos:1.95
+M6054 "130.png";show Image
+G0 Z6.95 F65;
+G0 Z1.95 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:130
+;currPos:1.965
+M6054 "131.png";show Image
+G0 Z6.965 F65;
+G0 Z1.965 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:131
+;currPos:1.98
+M6054 "132.png";show Image
+G0 Z6.98 F65;
+G0 Z1.98 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:132
+;currPos:1.995
+M6054 "133.png";show Image
+G0 Z6.995 F65;
+G0 Z1.995 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:133
+;currPos:2.01
+M6054 "134.png";show Image
+G0 Z7.01 F65;
+G0 Z2.01 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:134
+;currPos:2.025
+M6054 "135.png";show Image
+G0 Z7.025 F65;
+G0 Z2.025 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:135
+;currPos:2.04
+M6054 "136.png";show Image
+G0 Z7.04 F65;
+G0 Z2.04 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:136
+;currPos:2.055
+M6054 "137.png";show Image
+G0 Z7.055 F65;
+G0 Z2.055 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:137
+;currPos:2.07
+M6054 "138.png";show Image
+G0 Z7.07 F65;
+G0 Z2.07 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:138
+;currPos:2.085
+M6054 "139.png";show Image
+G0 Z7.085 F65;
+G0 Z2.085 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:139
+;currPos:2.1
+M6054 "140.png";show Image
+G0 Z7.1 F65;
+G0 Z2.1 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:140
+;currPos:2.115
+M6054 "141.png";show Image
+G0 Z7.115 F65;
+G0 Z2.115 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:141
+;currPos:2.13
+M6054 "142.png";show Image
+G0 Z7.13 F65;
+G0 Z2.13 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:142
+;currPos:2.145
+M6054 "143.png";show Image
+G0 Z7.145 F65;
+G0 Z2.145 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:143
+;currPos:2.16
+M6054 "144.png";show Image
+G0 Z7.16 F65;
+G0 Z2.16 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:144
+;currPos:2.175
+M6054 "145.png";show Image
+G0 Z7.175 F65;
+G0 Z2.175 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:145
+;currPos:2.19
+M6054 "146.png";show Image
+G0 Z7.19 F65;
+G0 Z2.19 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:146
+;currPos:2.205
+M6054 "147.png";show Image
+G0 Z7.205 F65;
+G0 Z2.205 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:147
+;currPos:2.22
+M6054 "148.png";show Image
+G0 Z7.22 F65;
+G0 Z2.22 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:148
+;currPos:2.235
+M6054 "149.png";show Image
+G0 Z7.235 F65;
+G0 Z2.235 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:149
+;currPos:2.25
+M6054 "150.png";show Image
+G0 Z7.25 F65;
+G0 Z2.25 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:150
+;currPos:2.265
+M6054 "151.png";show Image
+G0 Z7.265 F65;
+G0 Z2.265 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:151
+;currPos:2.28
+M6054 "152.png";show Image
+G0 Z7.28 F65;
+G0 Z2.28 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:152
+;currPos:2.295
+M6054 "153.png";show Image
+G0 Z7.295 F65;
+G0 Z2.295 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:153
+;currPos:2.31
+M6054 "154.png";show Image
+G0 Z7.31 F65;
+G0 Z2.31 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:154
+;currPos:2.325
+M6054 "155.png";show Image
+G0 Z7.325 F65;
+G0 Z2.325 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:155
+;currPos:2.34
+M6054 "156.png";show Image
+G0 Z7.34 F65;
+G0 Z2.34 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:156
+;currPos:2.355
+M6054 "157.png";show Image
+G0 Z7.355 F65;
+G0 Z2.355 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:157
+;currPos:2.37
+M6054 "158.png";show Image
+G0 Z7.37 F65;
+G0 Z2.37 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:158
+;currPos:2.385
+M6054 "159.png";show Image
+G0 Z7.385 F65;
+G0 Z2.385 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:159
+;currPos:2.4
+M6054 "160.png";show Image
+G0 Z7.4 F65;
+G0 Z2.4 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:160
+;currPos:2.415
+M6054 "161.png";show Image
+G0 Z7.415 F65;
+G0 Z2.415 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:161
+;currPos:2.43
+M6054 "162.png";show Image
+G0 Z7.43 F65;
+G0 Z2.43 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:162
+;currPos:2.445
+M6054 "163.png";show Image
+G0 Z7.445 F65;
+G0 Z2.445 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:163
+;currPos:2.46
+M6054 "164.png";show Image
+G0 Z7.46 F65;
+G0 Z2.46 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:164
+;currPos:2.475
+M6054 "165.png";show Image
+G0 Z7.475 F65;
+G0 Z2.475 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:165
+;currPos:2.49
+M6054 "166.png";show Image
+G0 Z7.49 F65;
+G0 Z2.49 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:166
+;currPos:2.505
+M6054 "167.png";show Image
+G0 Z7.505 F65;
+G0 Z2.505 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:167
+;currPos:2.52
+M6054 "168.png";show Image
+G0 Z7.52 F65;
+G0 Z2.52 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:168
+;currPos:2.535
+M6054 "169.png";show Image
+G0 Z7.535 F65;
+G0 Z2.535 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:169
+;currPos:2.55
+M6054 "170.png";show Image
+G0 Z7.55 F65;
+G0 Z2.55 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:170
+;currPos:2.565
+M6054 "171.png";show Image
+G0 Z7.565 F65;
+G0 Z2.565 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:171
+;currPos:2.58
+M6054 "172.png";show Image
+G0 Z7.58 F65;
+G0 Z2.58 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:172
+;currPos:2.595
+M6054 "173.png";show Image
+G0 Z7.595 F65;
+G0 Z2.595 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:173
+;currPos:2.61
+M6054 "174.png";show Image
+G0 Z7.61 F65;
+G0 Z2.61 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:174
+;currPos:2.625
+M6054 "175.png";show Image
+G0 Z7.625 F65;
+G0 Z2.625 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:175
+;currPos:2.64
+M6054 "176.png";show Image
+G0 Z7.64 F65;
+G0 Z2.64 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:176
+;currPos:2.655
+M6054 "177.png";show Image
+G0 Z7.655 F65;
+G0 Z2.655 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:177
+;currPos:2.67
+M6054 "178.png";show Image
+G0 Z7.67 F65;
+G0 Z2.67 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:178
+;currPos:2.685
+M6054 "179.png";show Image
+G0 Z7.685 F65;
+G0 Z2.685 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:179
+;currPos:2.7
+M6054 "180.png";show Image
+G0 Z7.7 F65;
+G0 Z2.7 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:180
+;currPos:2.715
+M6054 "181.png";show Image
+G0 Z7.715 F65;
+G0 Z2.715 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:181
+;currPos:2.73
+M6054 "182.png";show Image
+G0 Z7.73 F65;
+G0 Z2.73 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:182
+;currPos:2.745
+M6054 "183.png";show Image
+G0 Z7.745 F65;
+G0 Z2.745 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:183
+;currPos:2.76
+M6054 "184.png";show Image
+G0 Z7.76 F65;
+G0 Z2.76 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:184
+;currPos:2.775
+M6054 "185.png";show Image
+G0 Z7.775 F65;
+G0 Z2.775 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:185
+;currPos:2.79
+M6054 "186.png";show Image
+G0 Z7.79 F65;
+G0 Z2.79 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:186
+;currPos:2.805
+M6054 "187.png";show Image
+G0 Z7.805 F65;
+G0 Z2.805 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:187
+;currPos:2.82
+M6054 "188.png";show Image
+G0 Z7.82 F65;
+G0 Z2.82 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:188
+;currPos:2.835
+M6054 "189.png";show Image
+G0 Z7.835 F65;
+G0 Z2.835 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:189
+;currPos:2.85
+M6054 "190.png";show Image
+G0 Z7.85 F65;
+G0 Z2.85 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:190
+;currPos:2.865
+M6054 "191.png";show Image
+G0 Z7.865 F65;
+G0 Z2.865 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:191
+;currPos:2.88
+M6054 "192.png";show Image
+G0 Z7.88 F65;
+G0 Z2.88 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:192
+;currPos:2.895
+M6054 "193.png";show Image
+G0 Z7.895 F65;
+G0 Z2.895 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:193
+;currPos:2.91
+M6054 "194.png";show Image
+G0 Z7.91 F65;
+G0 Z2.91 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:194
+;currPos:2.925
+M6054 "195.png";show Image
+G0 Z7.925 F65;
+G0 Z2.925 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:195
+;currPos:2.94
+M6054 "196.png";show Image
+G0 Z7.94 F65;
+G0 Z2.94 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:196
+;currPos:2.955
+M6054 "197.png";show Image
+G0 Z7.955 F65;
+G0 Z2.955 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:197
+;currPos:2.97
+M6054 "198.png";show Image
+G0 Z7.97 F65;
+G0 Z2.97 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:198
+;currPos:2.985
+M6054 "199.png";show Image
+G0 Z7.985 F65;
+G0 Z2.985 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:199
+;currPos:3
+M6054 "200.png";show Image
+G0 Z8 F65;
+G0 Z3 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:200
+;currPos:3.015
+M6054 "201.png";show Image
+G0 Z8.015 F65;
+G0 Z3.015 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:201
+;currPos:3.03
+M6054 "202.png";show Image
+G0 Z8.03 F65;
+G0 Z3.03 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:202
+;currPos:3.045
+M6054 "203.png";show Image
+G0 Z8.045 F65;
+G0 Z3.045 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:203
+;currPos:3.06
+M6054 "204.png";show Image
+G0 Z8.06 F65;
+G0 Z3.06 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:204
+;currPos:3.075
+M6054 "205.png";show Image
+G0 Z8.075 F65;
+G0 Z3.075 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:205
+;currPos:3.09
+M6054 "206.png";show Image
+G0 Z8.09 F65;
+G0 Z3.09 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:206
+;currPos:3.105
+M6054 "207.png";show Image
+G0 Z8.105 F65;
+G0 Z3.105 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:207
+;currPos:3.12
+M6054 "208.png";show Image
+G0 Z8.12 F65;
+G0 Z3.12 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:208
+;currPos:3.135
+M6054 "209.png";show Image
+G0 Z8.135 F65;
+G0 Z3.135 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:209
+;currPos:3.15
+M6054 "210.png";show Image
+G0 Z8.15 F65;
+G0 Z3.15 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:210
+;currPos:3.165
+M6054 "211.png";show Image
+G0 Z8.165 F65;
+G0 Z3.165 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:211
+;currPos:3.18
+M6054 "212.png";show Image
+G0 Z8.18 F65;
+G0 Z3.18 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:212
+;currPos:3.195
+M6054 "213.png";show Image
+G0 Z8.195 F65;
+G0 Z3.195 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:213
+;currPos:3.21
+M6054 "214.png";show Image
+G0 Z8.21 F65;
+G0 Z3.21 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:214
+;currPos:3.225
+M6054 "215.png";show Image
+G0 Z8.225 F65;
+G0 Z3.225 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:215
+;currPos:3.24
+M6054 "216.png";show Image
+G0 Z8.24 F65;
+G0 Z3.24 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:216
+;currPos:3.255
+M6054 "217.png";show Image
+G0 Z8.255 F65;
+G0 Z3.255 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:217
+;currPos:3.27
+M6054 "218.png";show Image
+G0 Z8.27 F65;
+G0 Z3.27 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:218
+;currPos:3.285
+M6054 "219.png";show Image
+G0 Z8.285 F65;
+G0 Z3.285 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:219
+;currPos:3.3
+M6054 "220.png";show Image
+G0 Z8.3 F65;
+G0 Z3.3 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:220
+;currPos:3.315
+M6054 "221.png";show Image
+G0 Z8.315 F65;
+G0 Z3.315 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:221
+;currPos:3.33
+M6054 "222.png";show Image
+G0 Z8.33 F65;
+G0 Z3.33 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:222
+;currPos:3.345
+M6054 "223.png";show Image
+G0 Z8.345 F65;
+G0 Z3.345 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:223
+;currPos:3.36
+M6054 "224.png";show Image
+G0 Z8.36 F65;
+G0 Z3.36 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:224
+;currPos:3.375
+M6054 "225.png";show Image
+G0 Z8.375 F65;
+G0 Z3.375 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:225
+;currPos:3.39
+M6054 "226.png";show Image
+G0 Z8.39 F65;
+G0 Z3.39 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:226
+;currPos:3.405
+M6054 "227.png";show Image
+G0 Z8.405 F65;
+G0 Z3.405 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:227
+;currPos:3.42
+M6054 "228.png";show Image
+G0 Z8.42 F65;
+G0 Z3.42 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:228
+;currPos:3.435
+M6054 "229.png";show Image
+G0 Z8.435 F65;
+G0 Z3.435 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:229
+;currPos:3.45
+M6054 "230.png";show Image
+G0 Z8.45 F65;
+G0 Z3.45 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:230
+;currPos:3.465
+M6054 "231.png";show Image
+G0 Z8.465 F65;
+G0 Z3.465 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:231
+;currPos:3.48
+M6054 "232.png";show Image
+G0 Z8.48 F65;
+G0 Z3.48 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:232
+;currPos:3.495
+M6054 "233.png";show Image
+G0 Z8.495 F65;
+G0 Z3.495 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:233
+;currPos:3.51
+M6054 "234.png";show Image
+G0 Z8.51 F65;
+G0 Z3.51 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:234
+;currPos:3.525
+M6054 "235.png";show Image
+G0 Z8.525 F65;
+G0 Z3.525 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:235
+;currPos:3.54
+M6054 "236.png";show Image
+G0 Z8.54 F65;
+G0 Z3.54 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:236
+;currPos:3.555
+M6054 "237.png";show Image
+G0 Z8.555 F65;
+G0 Z3.555 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:237
+;currPos:3.57
+M6054 "238.png";show Image
+G0 Z8.57 F65;
+G0 Z3.57 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:238
+;currPos:3.585
+M6054 "239.png";show Image
+G0 Z8.585 F65;
+G0 Z3.585 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:239
+;currPos:3.6
+M6054 "240.png";show Image
+G0 Z8.6 F65;
+G0 Z3.6 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:240
+;currPos:3.615
+M6054 "241.png";show Image
+G0 Z8.615 F65;
+G0 Z3.615 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:241
+;currPos:3.63
+M6054 "242.png";show Image
+G0 Z8.63 F65;
+G0 Z3.63 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:242
+;currPos:3.645
+M6054 "243.png";show Image
+G0 Z8.645 F65;
+G0 Z3.645 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:243
+;currPos:3.66
+M6054 "244.png";show Image
+G0 Z8.66 F65;
+G0 Z3.66 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:244
+;currPos:3.675
+M6054 "245.png";show Image
+G0 Z8.675 F65;
+G0 Z3.675 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:245
+;currPos:3.69
+M6054 "246.png";show Image
+G0 Z8.69 F65;
+G0 Z3.69 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:246
+;currPos:3.705
+M6054 "247.png";show Image
+G0 Z8.705 F65;
+G0 Z3.705 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:247
+;currPos:3.72
+M6054 "248.png";show Image
+G0 Z8.72 F65;
+G0 Z3.72 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:248
+;currPos:3.735
+M6054 "249.png";show Image
+G0 Z8.735 F65;
+G0 Z3.735 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:249
+;currPos:3.75
+M6054 "250.png";show Image
+G0 Z8.75 F65;
+G0 Z3.75 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:250
+;currPos:3.765
+M6054 "251.png";show Image
+G0 Z8.765 F65;
+G0 Z3.765 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:251
+;currPos:3.78
+M6054 "252.png";show Image
+G0 Z8.78 F65;
+G0 Z3.78 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:252
+;currPos:3.795
+M6054 "253.png";show Image
+G0 Z8.795 F65;
+G0 Z3.795 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:253
+;currPos:3.81
+M6054 "254.png";show Image
+G0 Z8.81 F65;
+G0 Z3.81 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:254
+;currPos:3.825
+M6054 "255.png";show Image
+G0 Z8.825 F65;
+G0 Z3.825 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:255
+;currPos:3.84
+M6054 "256.png";show Image
+G0 Z8.84 F65;
+G0 Z3.84 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:256
+;currPos:3.855
+M6054 "257.png";show Image
+G0 Z8.855 F65;
+G0 Z3.855 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:257
+;currPos:3.87
+M6054 "258.png";show Image
+G0 Z8.87 F65;
+G0 Z3.87 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:258
+;currPos:3.885
+M6054 "259.png";show Image
+G0 Z8.885 F65;
+G0 Z3.885 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:259
+;currPos:3.9
+M6054 "260.png";show Image
+G0 Z8.9 F65;
+G0 Z3.9 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:260
+;currPos:3.915
+M6054 "261.png";show Image
+G0 Z8.915 F65;
+G0 Z3.915 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:261
+;currPos:3.93
+M6054 "262.png";show Image
+G0 Z8.93 F65;
+G0 Z3.93 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:262
+;currPos:3.945
+M6054 "263.png";show Image
+G0 Z8.945 F65;
+G0 Z3.945 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:263
+;currPos:3.96
+M6054 "264.png";show Image
+G0 Z8.96 F65;
+G0 Z3.96 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:264
+;currPos:3.975
+M6054 "265.png";show Image
+G0 Z8.975 F65;
+G0 Z3.975 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:265
+;currPos:3.99
+M6054 "266.png";show Image
+G0 Z8.99 F65;
+G0 Z3.99 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:266
+;currPos:4.005
+M6054 "267.png";show Image
+G0 Z9.005 F65;
+G0 Z4.005 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:267
+;currPos:4.02
+M6054 "268.png";show Image
+G0 Z9.02 F65;
+G0 Z4.02 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:268
+;currPos:4.035
+M6054 "269.png";show Image
+G0 Z9.035 F65;
+G0 Z4.035 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:269
+;currPos:4.05
+M6054 "270.png";show Image
+G0 Z9.05 F65;
+G0 Z4.05 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:270
+;currPos:4.065
+M6054 "271.png";show Image
+G0 Z9.065 F65;
+G0 Z4.065 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:271
+;currPos:4.08
+M6054 "272.png";show Image
+G0 Z9.08 F65;
+G0 Z4.08 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:272
+;currPos:4.095
+M6054 "273.png";show Image
+G0 Z9.095 F65;
+G0 Z4.095 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:273
+;currPos:4.11
+M6054 "274.png";show Image
+G0 Z9.11 F65;
+G0 Z4.11 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:274
+;currPos:4.125
+M6054 "275.png";show Image
+G0 Z9.125 F65;
+G0 Z4.125 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:275
+;currPos:4.14
+M6054 "276.png";show Image
+G0 Z9.14 F65;
+G0 Z4.14 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:276
+;currPos:4.155
+M6054 "277.png";show Image
+G0 Z9.155 F65;
+G0 Z4.155 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:277
+;currPos:4.17
+M6054 "278.png";show Image
+G0 Z9.17 F65;
+G0 Z4.17 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:278
+;currPos:4.185
+M6054 "279.png";show Image
+G0 Z9.185 F65;
+G0 Z4.185 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:279
+;currPos:4.2
+M6054 "280.png";show Image
+G0 Z9.2 F65;
+G0 Z4.2 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:280
+;currPos:4.215
+M6054 "281.png";show Image
+G0 Z9.215 F65;
+G0 Z4.215 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:281
+;currPos:4.23
+M6054 "282.png";show Image
+G0 Z9.23 F65;
+G0 Z4.23 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:282
+;currPos:4.245
+M6054 "283.png";show Image
+G0 Z9.245 F65;
+G0 Z4.245 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:283
+;currPos:4.26
+M6054 "284.png";show Image
+G0 Z9.26 F65;
+G0 Z4.26 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:284
+;currPos:4.275
+M6054 "285.png";show Image
+G0 Z9.275 F65;
+G0 Z4.275 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:285
+;currPos:4.29
+M6054 "286.png";show Image
+G0 Z9.29 F65;
+G0 Z4.29 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:286
+;currPos:4.305
+M6054 "287.png";show Image
+G0 Z9.305 F65;
+G0 Z4.305 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:287
+;currPos:4.32
+M6054 "288.png";show Image
+G0 Z9.32 F65;
+G0 Z4.32 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:288
+;currPos:4.335
+M6054 "289.png";show Image
+G0 Z9.335 F65;
+G0 Z4.335 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:289
+;currPos:4.35
+M6054 "290.png";show Image
+G0 Z9.35 F65;
+G0 Z4.35 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:290
+;currPos:4.365
+M6054 "291.png";show Image
+G0 Z9.365 F65;
+G0 Z4.365 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:291
+;currPos:4.38
+M6054 "292.png";show Image
+G0 Z9.38 F65;
+G0 Z4.38 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:292
+;currPos:4.395
+M6054 "293.png";show Image
+G0 Z9.395 F65;
+G0 Z4.395 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:293
+;currPos:4.41
+M6054 "294.png";show Image
+G0 Z9.41 F65;
+G0 Z4.41 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:294
+;currPos:4.425
+M6054 "295.png";show Image
+G0 Z9.425 F65;
+G0 Z4.425 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:295
+;currPos:4.44
+M6054 "296.png";show Image
+G0 Z9.44 F65;
+G0 Z4.44 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:296
+;currPos:4.455
+M6054 "297.png";show Image
+G0 Z9.455 F65;
+G0 Z4.455 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:297
+;currPos:4.47
+M6054 "298.png";show Image
+G0 Z9.47 F65;
+G0 Z4.47 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:298
+;currPos:4.485
+M6054 "299.png";show Image
+G0 Z9.485 F65;
+G0 Z4.485 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:299
+;currPos:4.5
+M6054 "300.png";show Image
+G0 Z9.5 F65;
+G0 Z4.5 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:300
+;currPos:4.515
+M6054 "301.png";show Image
+G0 Z9.515 F65;
+G0 Z4.515 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:301
+;currPos:4.53
+M6054 "302.png";show Image
+G0 Z9.53 F65;
+G0 Z4.53 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:302
+;currPos:4.545
+M6054 "303.png";show Image
+G0 Z9.545 F65;
+G0 Z4.545 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:303
+;currPos:4.56
+M6054 "304.png";show Image
+G0 Z9.56 F65;
+G0 Z4.56 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:304
+;currPos:4.575
+M6054 "305.png";show Image
+G0 Z9.575 F65;
+G0 Z4.575 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:305
+;currPos:4.59
+M6054 "306.png";show Image
+G0 Z9.59 F65;
+G0 Z4.59 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:306
+;currPos:4.605
+M6054 "307.png";show Image
+G0 Z9.605 F65;
+G0 Z4.605 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:307
+;currPos:4.62
+M6054 "308.png";show Image
+G0 Z9.62 F65;
+G0 Z4.62 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:308
+;currPos:4.635
+M6054 "309.png";show Image
+G0 Z9.635 F65;
+G0 Z4.635 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:309
+;currPos:4.65
+M6054 "310.png";show Image
+G0 Z9.65 F65;
+G0 Z4.65 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:310
+;currPos:4.665
+M6054 "311.png";show Image
+G0 Z9.665 F65;
+G0 Z4.665 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:311
+;currPos:4.68
+M6054 "312.png";show Image
+G0 Z9.68 F65;
+G0 Z4.68 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:312
+;currPos:4.695
+M6054 "313.png";show Image
+G0 Z9.695 F65;
+G0 Z4.695 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:313
+;currPos:4.71
+M6054 "314.png";show Image
+G0 Z9.71 F65;
+G0 Z4.71 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:314
+;currPos:4.725
+M6054 "315.png";show Image
+G0 Z9.725 F65;
+G0 Z4.725 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:315
+;currPos:4.74
+M6054 "316.png";show Image
+G0 Z9.74 F65;
+G0 Z4.74 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:316
+;currPos:4.755
+M6054 "317.png";show Image
+G0 Z9.755 F65;
+G0 Z4.755 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:317
+;currPos:4.77
+M6054 "318.png";show Image
+G0 Z9.77 F65;
+G0 Z4.77 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:318
+;currPos:4.785
+M6054 "319.png";show Image
+G0 Z9.785 F65;
+G0 Z4.785 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:319
+;currPos:4.8
+M6054 "320.png";show Image
+G0 Z9.8 F65;
+G0 Z4.8 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:320
+;currPos:4.815
+M6054 "321.png";show Image
+G0 Z9.815 F65;
+G0 Z4.815 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:321
+;currPos:4.83
+M6054 "322.png";show Image
+G0 Z9.83 F65;
+G0 Z4.83 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:322
+;currPos:4.845
+M6054 "323.png";show Image
+G0 Z9.845 F65;
+G0 Z4.845 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:323
+;currPos:4.86
+M6054 "324.png";show Image
+G0 Z9.86 F65;
+G0 Z4.86 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:324
+;currPos:4.875
+M6054 "325.png";show Image
+G0 Z9.875 F65;
+G0 Z4.875 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:325
+;currPos:4.89
+M6054 "326.png";show Image
+G0 Z9.89 F65;
+G0 Z4.89 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:326
+;currPos:4.905
+M6054 "327.png";show Image
+G0 Z9.905 F65;
+G0 Z4.905 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:327
+;currPos:4.92
+M6054 "328.png";show Image
+G0 Z9.92 F65;
+G0 Z4.92 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:328
+;currPos:4.935
+M6054 "329.png";show Image
+G0 Z9.935 F65;
+G0 Z4.935 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:329
+;currPos:4.95
+M6054 "330.png";show Image
+G0 Z9.95 F65;
+G0 Z4.95 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;LAYER_START:330
+;currPos:4.965
+M6054 "331.png";show Image
+G0 Z9.965 F65;
+G0 Z4.965 F150;
+G4 P0;
+M106 S255;light on
+G4 P6000;
+M106 S0; light off
+
+;LAYER_END
+
+;END_GCODE_BEGIN
+M106 S0;
+G1 Z180 F25;
+M18;
+
+;END_GCODE_END
